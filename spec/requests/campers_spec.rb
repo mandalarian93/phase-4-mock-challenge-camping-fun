@@ -148,3 +148,16 @@ RSpec.describe "Campers", type: :request do
   end
 
 end
+
+
+
+
+
+
+
+
+
+
+
+
+

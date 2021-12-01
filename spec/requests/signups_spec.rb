@@ -58,3 +58,16 @@ RSpec.describe "Signups", type: :request do
   end
 
 end
+
+
+
+
+
+
+
+
+
+
+
+
+

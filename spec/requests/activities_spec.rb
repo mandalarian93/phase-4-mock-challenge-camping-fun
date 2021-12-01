@@ -71,3 +71,23 @@ RSpec.describe "Activities", type: :request do
 
   end
 end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
